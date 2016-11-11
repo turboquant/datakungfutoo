@@ -5,7 +5,7 @@
 
 
 ```
-$ git clone https://github.com/turboquant/datakungfu
+$ git clone https://github.com/turboquant/datakungfutoo
 ```
 
 
